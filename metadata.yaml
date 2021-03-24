@@ -1,0 +1,26 @@
+_repo: Uppoavia-laivoja_64563
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Atra, Kaarlo
+    alias: Enqvist-Atra, Kaarlo
+    birthdate: 1879
+    deathdate: 1961
+    gutenberg_agent_id: '52955'
+    url: http://www.gutenberg.org/2009/agents/52955
+    wikipedia: https://fi.wikipedia.org/wiki/Kaarlo_Enqvist-Atra
+description: ''
+gutenberg_issued: '2021-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64563'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: Uppoavia laivoja
+url: http://www.gutenberg.org/ebooks/64563
